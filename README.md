@@ -37,7 +37,7 @@ yarn install
 4. Now you can begin running the various scripts in the `package.json` file. For instance, to run the smart contract tests found in `packages/hardhat/test`:
 
 ```bash
-yarn hadhat:test
+yarn hardhat:test
 ```
 Or, to run the React application found in `packages/dapp`:
 ```bash
